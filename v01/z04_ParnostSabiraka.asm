@@ -1,5 +1,5 @@
 ; Napisati asembler program koji proverava da li je rezultat zbira dva brojs paran ili ne. 
-; Parnost sa?uvati kao informaciju u registru SI (ako je broj paran postaviti ga na 1, u suprotnom na 0). 
+; Parnost sacuvati kao informaciju u registru SI (ako je broj paran postaviti ga na 1, u suprotnom na 0). 
 
 data_seg SEGMENT
     broj1 dw 1
