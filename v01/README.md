@@ -1,0 +1,1 @@
+### Segmenti, labele, nizovi
